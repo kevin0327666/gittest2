@@ -1,0 +1,2 @@
+服务运行在200.3服务器8667端口。
+要开启服务，到go/captcha_phone路径下运行dockerfile构建docker容器。
